@@ -1,24 +1,18 @@
 # reflectie
-<<<<<<< HEAD
-<<<<<<< HEAD
------
-juan teks:
+____
 
-* wat heb ik met deze lessen nieuw geleerd?
+Joaquin de Boer
+
+- wat heb ik met deze lessen nieuw geleerd?
     hoe ik git hub moet gebruiken, zoals branches, repositorys push en pull.
 
-* wat wist ik al?
+- wat wist ik al?
     niks ik had nog nooit github gebruikt.
 
-* waarvan zou je nog meer willen weten?
+- waarvan zou je nog meer willen weten?
     nog meer van github en er ervaring mee opdoen.
------
-=======
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
->>>>>>> 630e245f58adeb539f2757a8817cf78b83b4c695
+____
 
 Luna Hilversum
 
@@ -49,7 +43,9 @@ Dat github bestond.
 - Waarvan zou ik nog meer willen weten?
 
 De reden waarom we cmd prompt moeten gebruiken in plaats van de github site zelf.
+
 ____
+
 Jamy de Waal
 
 - wat heb ik deze lessen nieuw geleerd?
@@ -63,13 +59,5 @@ ik wist niks van de onderwerpen die deze lessen waren besproken
 - waarvan zou ik nog meer willen leren?
 
 ik heb geen idee, meschien hoe je nog duidelijker met github zou kunnen werken
-<<<<<<< HEAD
->>>>>>> jamy
->>>>>>> b047363afa3b0ce085218bae6fb9b9c7d99d42b4
-=======
 
-<<<<<<< HEAD
->>>>>>> 630e245f58adeb539f2757a8817cf78b83b4c695
-=======
 ____
->>>>>>> f5a37d2d9220cd88ca4c469b8c2d51160ec07584
