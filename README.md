@@ -26,16 +26,16 @@ Luna Hilversum
 
 Ik heb geleerd hoe ik met cmd werk en hoe ik met repositories werk op github.
 
-
 - Wat wist ik al
 
 Ik wist eigenlijk niks. Ik had nog nooit met github of cmd gewerkt.
 
-
 - Waarvan zou ik nog meer willen weten
 
 Ik zou graag nog meer over cmd leren en extra dingetjes die ik ermee kan doen.
-=======
+
+____
+
 Jason Versteeg
 
 - Wat heb ik met deze lessen geleerd?
@@ -49,7 +49,7 @@ Dat github bestond.
 - Waarvan zou ik nog meer willen weten?
 
 De reden waarom we cmd prompt moeten gebruiken in plaats van de github site zelf.
-=======
+____
 Jamy de Waal
 
 - wat heb ik deze lessen nieuw geleerd?
@@ -65,4 +65,8 @@ ik heb geen idee, meschien hoe je nog duidelijker met github zou kunnen werken
 >>>>>>> b047363afa3b0ce085218bae6fb9b9c7d99d42b4
 =======
 
+<<<<<<< HEAD
 >>>>>>> 630e245f58adeb539f2757a8817cf78b83b4c695
+=======
+____
+>>>>>>> f5a37d2d9220cd88ca4c469b8c2d51160ec07584
